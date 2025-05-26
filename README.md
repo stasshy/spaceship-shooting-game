@@ -13,7 +13,7 @@ A 2D Java Swing-based space shooter game featuring multiple playable ships with 
   - Interfaces (`Navigation`)
 - **Responsive Game Frame** (800x600 resolution)
 
-## How to Run ▶
+## How to Run 
 1. **Requirements**:
    - Java JDK 11+
    - Image files in `/images` folder
