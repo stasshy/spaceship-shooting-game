@@ -1,0 +1,13 @@
+# Compiled files
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+*.swp
+
+# Build
+bin/
+out/
+target/
